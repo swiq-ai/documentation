@@ -111,4 +111,6 @@ To successfully run the SWIQ.AI IntelliJ plugin, the following dependencies are 
 </dependency>
 ```
 
+## Adding Dependencies
+
 These dependencies ensure that all necessary components for unit testing with JUnit 5 and Mockito are available, enabling robust testing capabilities. This setup supports a wide range of test scenarios, making your development process more efficient and your software more reliable.
